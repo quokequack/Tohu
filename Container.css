@@ -1,0 +1,14 @@
+.Container{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+}
+.bigContainer{
+    height:500px;
+    width:90%;
+    border:2px solid;
+    margin-top:100px;
+}
+.conteudo{
+    margin-top:150px;
+}
